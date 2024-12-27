@@ -56,7 +56,7 @@ const SliderComponent = () => {
   return (
     <div className="container mx-auto font-forum pt-5">
       <div className="flex justify-center items-center font-bold text-6xl text-slate-950 dark:text-white py-10">
-        <h1>Themes For Compumax</h1>
+        <h1>Cmax Templates</h1>
       </div>
       {/* Category Buttons */}
       <div className="mb-6 flex flex-wrap gap-4 justify-center">
