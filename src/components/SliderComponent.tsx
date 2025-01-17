@@ -54,7 +54,7 @@ const SliderComponent = () => {
       : slides.filter((slide) => slide.category === selectedCategory);
 
   return (
-    <div className="container mx-auto font-forum pt-5">
+    <div className="container mx-auto font-forum p-4 sm:p-14 sm:pt-4">
       <div className="flex justify-center items-center font-bold text-6xl text-slate-950 dark:text-white py-10">
         <h1>Cmax Templates</h1>
       </div>

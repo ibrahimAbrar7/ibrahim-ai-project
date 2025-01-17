@@ -149,20 +149,27 @@ export const slides = [
     },
     {
       id: 22,
+      image: "/img-27.png",
+      title: "Virgin Islands",
+      category: "law-firm",
+      path: "https://thefixwell.com/samples/virginislands-edied-16-01-2025/",
+    },
+    {
+      id: 23,
       image: "/img-22.png",
       title: "Desert In Alaska",
       category: "heating-and-ac",
       path: "https://thefixwell.com/samples/newdesert2/",
     },
     {
-      id: 23,
+      id: 24,
       image: "/img-23.png",
       title: "Lava Smoke Shop",
       category: "smoke",
       path: "https://thefixwell.com/samples/ogani-master/",
     },
     {
-      id: 24,
+      id: 25,
       image: "/img-24.png",
       title: "Renaissance Sample 1",
       category: "events",
@@ -170,29 +177,21 @@ export const slides = [
     },
     
     {
-      id: 25,
+      id: 26,
       image: "/img-25.png",
       title: "Renaissance Sample 2",
       category: "events",
       path: "https://thefixwell.com/samples/renaissanceevents-sample-2/",
     },
     {
-      id: 26,
+      id: 27,
       image: "/img-26.png",
       title: "Shiva Roadlines",
       category: "transportation",
       path: "https://thefixwell.com/samples/shivaroadlines/",
     },
     {
-      id: 27,
-      image: "/img-27.png",
-      title: "Virgin Islands",
-      category: "law-firm",
-      path: "https://thefixwell.com/samples/A1-staffing-new-final1/",
-    },
-    
-    {
-      id: 28,
+      id: 29,
       image: "/img-28.png",
       title: "Almo Laminates",
       category: "laminates-and-interior",
@@ -200,7 +199,7 @@ export const slides = [
     },
     
     {
-      id: 29,
+      id: 30,
       image: "/img-29.png",
       title: "ICD Innovative Construction",
       category: "construction/roofing",
@@ -208,7 +207,7 @@ export const slides = [
     },
     
     {
-      id: 30,
+      id: 31,
       image: "/img-30.png",
       title: "Hijama Sample 1",
       category: "clinic",
@@ -216,45 +215,52 @@ export const slides = [
     },
     
     {
-      id: 31,
+      id: 32,
       image: "/img-31.png",
       title: "Detox Clinic",
       category: "clinic",
       path: "https://thefixwell.com/samples/DetoxClinic/",
     },
     {
-      id: 32,
+      id: 33,
       image: "/img-32.png",
       title: "Classic Contractors",
       category: "construction/roofing",
       path: "https://thefixwell.com/samples/classic-contractor-3/",
     },
     {
-      id: 33,
+      id: 34,
       image: "/img-33.png",
       title: "Battlefields",
       category: "blog",
       path: "https://thefixwell.com/samples/battlefields-1/",
     },
     {
-      id: 34,
+      id: 35,
       image: "/img-34.png",
       title: "United Furniture",
       category: "furniture",
       path: "https://thefixwell.com/samples/united-furniture-2/",
     },
     {
-      id: 35,
+      id: 36,
       image: "/img-35.png",
       title: "United-Furniture sample 2",
       category: "furniture",
       path: "https://thefixwell.com/samples/unionfurniture/",
     },
     {
-      id: 36,
+      id: 37,
       image: "/img-36.png",
       title: "Transit Express",
       category: "tour-and-travel",
       path: "https://thefixwell.com/samples/transitexpress-1/",
+    },
+    {
+      id: 38,
+      image: "/img-37.png",
+      title: "Jewel Construction",
+      category: "construction/roofing",
+      path: "https://thefixwell.com/samples/jewel/",
     },
   ];
