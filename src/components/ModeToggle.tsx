@@ -25,7 +25,6 @@ export function ModeToggle() {
   return (
     <Button
       variant="outline"
-      size="md"
       onClick={toggleTheme}
       className="relative flex items-center justify-center w-12 h-12"
     >
