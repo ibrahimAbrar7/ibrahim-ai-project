@@ -263,7 +263,6 @@ export const slides = [
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/jewel/",
   },
-<<<<<<< HEAD
 
   {
     id: 39,
@@ -319,51 +318,47 @@ export const slides = [
     title: "Strength and Exercise sample 3",
     category: "fitness",
     path: "https://thefixwell.com/samples/strengthandexercise-24-03-2025-02/",
-  }
-  
-];
-=======
+  },
   {
-    id: 39,
-    image: "/img-45.png",
+    id: 46,
+    image: "/img-46.png",
     title: "Joseph Sunder 1",
     category: "events",
     path: "https://thefixwell.com/samples/jospehsunder_1-4-2025/",
   },
   {
-    id: 40,
-    image: "/img-39.png",
+    id: 47,
+    image: "/img-47.png",
     title: "Joseph Sunder 2",
     category: "events",
     path: "https://thefixwell.com/samples/joseph-sample3_1-4-2025/",
   },
   {
-    id: 41,
-    image: "/img-40.png",
+    id: 48,
+    image: "/img-48.png",
     title: "Lia Fashions",
     category: "events",
     path: "https://thefixwell.com/samples/lia-fashions_1-4-2025/lia-fashions_4/",
   },
   {
-    id: 43,
-    image: "/img-42.png",
+    id: 49,
+    image: "/img-49.png",
     title: "Max Depot",
     category: "events",
     path: "https://thefixwell.com/samples/_max-depot-nj_1-4-2025/",
   },
   {
-    id: 44,
-    image: "/img-43.png",
+    id: 50,
+    image: "/img-50.png",
     title: "Ad God",
     category: "events",
     path: "https://thefixwell.com/samples/AdGod-sample_1-4-2025/",
   },
   {
-    id: 45,
-    image: "/img-44.png",
+    id: 51,
+    image: "/img-51.png",
     title: "Ad God",
     category: "events",
     path: "https://thefixwell.com/samples/speacial-events-channel_1-4-2025/",
   },
 ];
->>>>>>> 28eed9989a510f268f65fc1b0a3df60ba95a45f0
