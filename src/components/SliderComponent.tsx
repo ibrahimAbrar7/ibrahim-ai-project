@@ -121,7 +121,7 @@ const SliderComponent = () => {
         <button
           onClick={scrollPrev}
           disabled={!prevBtnEnabled}
-          className={`absolute top-1/2 -left-12 transform -translate-y-1/2 bg-gray-100 dark:bg-gray-700 p-2 rounded-full shadow-md ${
+          className={`absolute top-1/2 -left-4 lg:-left-12 transform -translate-y-1/2 bg-gray-100 dark:bg-gray-700 p-2 rounded-full shadow-md ${
             !prevBtnEnabled
               ? "opacity-50 cursor-not-allowed"
               : "hover:bg-gray-200 dark:hover:bg-gray-600"
@@ -132,7 +132,7 @@ const SliderComponent = () => {
         <button
           onClick={scrollNext}
           disabled={!nextBtnEnabled}
-          className={`absolute top-1/2 -right-12 transform -translate-y-1/2 bg-gray-100 dark:bg-gray-700 p-2 rounded-full shadow-md ${
+          className={`absolute top-1/2 -right-4 lg:-right-12 transform -translate-y-1/2 bg-gray-100 dark:bg-gray-700 p-2 rounded-full shadow-md ${
             !nextBtnEnabled
               ? "opacity-50 cursor-not-allowed"
               : "hover:bg-gray-200 dark:hover:bg-gray-600"
