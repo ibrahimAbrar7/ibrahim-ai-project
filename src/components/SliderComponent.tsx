@@ -78,10 +78,7 @@ const SliderComponent = () => {
       {/* Carousel */}
       <div className="relative w-full h-[325px] mx-auto">
         {/* Fixed height to prevent layout shift */}
-        <div
-          className="overflow-hidden"
-          ref={emblaRef}
-        >
+        <div className="overflow-hidden" ref={emblaRef}>
           <div className="flex animate-fade-zoom">
             {filteredSlides.map((slide) => (
               <div
@@ -101,12 +98,14 @@ const SliderComponent = () => {
                       {slide.title}
                     </h3>
                     <div className="mt-4 flex justify-center gap-2">
-                      <button className="px-4 py-2 text-lg text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 rounded shadow-md">
-                        Download ZIP
-                      </button>
+                      <Link href={slide.liveLink} target="_blank">
+                        <button className="px-4 py-2 text-lg text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 rounded shadow-md">
+                          Live Site Preview
+                        </button>
+                      </Link>
                       <Link href={slide.path} target="_blank">
                         <button className="px-4 py-2 text-lg text-blue-600 bg-gray-100 hover:bg-gray-200 dark:text-white dark:bg-gray-700 dark:hover:bg-gray-600 rounded shadow-md">
-                          Live Preview
+                          Sample Preview
                         </button>
                       </Link>
                     </div>

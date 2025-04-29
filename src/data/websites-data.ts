@@ -5,6 +5,7 @@ export const slides = [
     title: "A1 Staffing Pro",
     category: "staffing-agency",
     path: "https://thefixwell.com/samples/A1-staffing-new-final1",
+    liveLink: "https://www.a1staffingpro.com/",
   },
   {
     id: 2,
@@ -12,6 +13,7 @@ export const slides = [
     title: "Nick Contractor",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/nick-contractor",
+    liveLink: "https://www.nickcontractor.com/",
   },
   {
     id: 3,
@@ -19,6 +21,7 @@ export const slides = [
     title: "Turbo Shop",
     category: "e-commerce",
     path: "https://thefixwell.com/samples-premium/turbo-shop-edited--02-Dec-2024",
+    liveLink: "https://turboshop.ca/",
   },
   {
     id: 4,
@@ -26,6 +29,7 @@ export const slides = [
     title: "SAS Roofing",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/SAS-roofing-with-form3",
+    liveLink: "https://www.sasroofingwaterproofing.com/",
   },
   {
     id: 5,
@@ -33,6 +37,7 @@ export const slides = [
     title: "Desert In Alaska",
     category: "heating-and-ac",
     path: "https://thefixwell.com/samples/desert03",
+    liveLink: "",
   },
   {
     id: 6,
@@ -40,6 +45,7 @@ export const slides = [
     title: "Motherland Nepal",
     category: "donations-and-non-profit",
     path: "https://thefixwell.com/samples/N01",
+    liveLink: "",
   },
   {
     id: 7,
@@ -47,6 +53,7 @@ export const slides = [
     title: "Classic Cues",
     category: "simple",
     path: "https://thefixwell.com/samples/c2",
+    liveLink: "",
   },
   {
     id: 8,
@@ -54,6 +61,7 @@ export const slides = [
     title: "Aldo Modular",
     category: "furniture",
     path: "https://thefixwell.com/samples/Aldo-Modular-sample3",
+    liveLink: "",
   },
   {
     id: 9,
@@ -61,6 +69,7 @@ export const slides = [
     title: "Everest Cuisine",
     category: "restaurant",
     path: "https://thefixwell.com/samples/everest-cuisine-balu-sample",
+    liveLink: "",
   },
   {
     id: 10,
@@ -68,6 +77,7 @@ export const slides = [
     title: "JS ALdo Constructions",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/Aldo-roofing8/",
+    liveLink: "",
   },
 
   {
@@ -76,6 +86,7 @@ export const slides = [
     title: "Angaara",
     category: "restaurant",
     path: "https://thefixwell.com/samples/Angaara/",
+    liveLink: "",
   },
   {
     id: 12,
@@ -83,6 +94,7 @@ export const slides = [
     title: "Desert In Alaska",
     category: "heating-and-ac",
     path: "https://thefixwell.com/samples/DesertInAlaska/",
+    liveLink: "",
   },
   {
     id: 13,
@@ -90,6 +102,7 @@ export const slides = [
     title: "Battlefields",
     category: "booking",
     path: "https://thefixwell.com/samples/A1-staffing-new-final1/",
+    liveLink: "",
   },
   {
     id: 14,
@@ -97,6 +110,7 @@ export const slides = [
     title: "Simply Smiles",
     category: "Dental",
     path: "https://thefixwell.com/samples/SimplySmilez/",
+    liveLink: "",
   },
   {
     id: 15,
@@ -104,6 +118,7 @@ export const slides = [
     title: "Wood-Work",
     category: "wood-work",
     path: "https://thefixwell.com/samples/carpenter-website-template/",
+    liveLink: "",
   },
   {
     id: 16,
@@ -111,6 +126,7 @@ export const slides = [
     title: "classic Cues",
     category: "simple",
     path: "https://thefixwell.com/samples/classic-red01/",
+    liveLink: "",
   },
   {
     id: 17,
@@ -118,6 +134,7 @@ export const slides = [
     title: "Compumax Sample",
     category: "it-company",
     path: "https://thefixwell.com/samples/compumaxindia/",
+    liveLink: "",
   },
   {
     id: 18,
@@ -125,6 +142,7 @@ export const slides = [
     title: "Everest Cuisine",
     category: "restaurant",
     path: "https://thefixwell.com/samples/everest-cruisine-sample-2/",
+    liveLink: "",
   },
   {
     id: 19,
@@ -132,6 +150,7 @@ export const slides = [
     title: "Work Fit",
     category: "fitness",
     path: "https://thefixwell.com/samples/gym-2/",
+    liveLink: "",
   },
   {
     id: 20,
@@ -139,6 +158,7 @@ export const slides = [
     title: "Work Fit",
     category: "fitness",
     path: "https://thefixwell.com/samples/gym-3/",
+    liveLink: "",
   },
   {
     id: 21,
@@ -146,6 +166,7 @@ export const slides = [
     title: "Lucianna Law",
     category: "law-firm",
     path: "https://thefixwell.com/samples/new20/",
+    liveLink: "",
   },
   {
     id: 22,
@@ -153,6 +174,7 @@ export const slides = [
     title: "Virgin Islands",
     category: "law-firm",
     path: "https://thefixwell.com/samples/virginislands-edied-16-01-2025/",
+    liveLink: "",
   },
   {
     id: 23,
@@ -160,6 +182,7 @@ export const slides = [
     title: "Desert In Alaska",
     category: "heating-and-ac",
     path: "https://thefixwell.com/samples/newdesert2/",
+    liveLink: "",
   },
   {
     id: 24,
@@ -167,6 +190,7 @@ export const slides = [
     title: "Lava Smoke Shop",
     category: "smoke",
     path: "https://thefixwell.com/samples/ogani-master/",
+    liveLink: "",
   },
   {
     id: 25,
@@ -174,6 +198,7 @@ export const slides = [
     title: "Renaissance Sample 1",
     category: "events",
     path: "https://thefixwell.com/samples/renaissanceevents-sample-1/",
+    liveLink: "",
   },
 
   {
@@ -182,6 +207,7 @@ export const slides = [
     title: "Renaissance Sample 2",
     category: "events",
     path: "https://thefixwell.com/samples/renaissanceevents-sample-2/",
+    liveLink: "",
   },
   {
     id: 27,
@@ -189,6 +215,7 @@ export const slides = [
     title: "Shiva Roadlines",
     category: "transportation",
     path: "https://thefixwell.com/samples/shivaroadlines/",
+    liveLink: "",
   },
   {
     id: 29,
@@ -196,6 +223,7 @@ export const slides = [
     title: "Almo Laminates",
     category: "laminates-and-interior",
     path: "https://thefixwell.com/samples-premium/Almo-Laminates-edited6/",
+    liveLink: "",
   },
 
   {
@@ -204,6 +232,7 @@ export const slides = [
     title: "ICD Innovative Construction",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples-premium/ICD-innovativeConstruction/",
+    liveLink: "",
   },
 
   {
@@ -212,6 +241,7 @@ export const slides = [
     title: "Hijama Sample 1",
     category: "clinic",
     path: "https://thefixwell.com/samples/Hijama-sample3/",
+    liveLink: "",
   },
 
   {
@@ -220,6 +250,7 @@ export const slides = [
     title: "Detox Clinic",
     category: "clinic",
     path: "https://thefixwell.com/samples/DetoxClinic/",
+    liveLink: "",
   },
   {
     id: 33,
@@ -227,6 +258,7 @@ export const slides = [
     title: "Classic Contractors",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/classic-contractor-3/",
+    liveLink: "",
   },
   {
     id: 34,
@@ -234,6 +266,7 @@ export const slides = [
     title: "Battlefields",
     category: "blog",
     path: "https://thefixwell.com/samples/battlefields-1/",
+    liveLink: "",
   },
   {
     id: 35,
@@ -241,6 +274,7 @@ export const slides = [
     title: "United Furniture",
     category: "furniture",
     path: "https://thefixwell.com/samples/united-furniture-2/",
+    liveLink: "",
   },
   {
     id: 36,
@@ -248,6 +282,7 @@ export const slides = [
     title: "United-Furniture sample 2",
     category: "furniture",
     path: "https://thefixwell.com/samples/unionfurniture/",
+    liveLink: "",
   },
   {
     id: 37,
@@ -255,6 +290,7 @@ export const slides = [
     title: "Transit Express",
     category: "tour-and-travel",
     path: "https://thefixwell.com/samples/transitexpress-1/",
+    liveLink: "",
   },
   {
     id: 38,
@@ -262,6 +298,7 @@ export const slides = [
     title: "Jewel Construction",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/jewel/",
+    liveLink: "",
   },
 
   {
@@ -270,6 +307,7 @@ export const slides = [
     title: "I Revive Sample 2",
     category: "clinic",
     path: "https://thefixwell.com/samples/i-revive_1_2-4-25_(2)/",
+    liveLink: "",
   },
 
   {
@@ -278,6 +316,7 @@ export const slides = [
     title: "Mothreland Sample 2",
     category: "donations-and-non-profit",
     path: "https://thefixwell.com/samples/motherland(sample2)_2-2-4-25/",
+    liveLink: "",
   },
 
   {
@@ -286,6 +325,7 @@ export const slides = [
     title: "Mothreland Sample 3",
     category: "donations-and-non-profit",
     path: "https://thefixwell.com/samples/motherland-sample(3)_1_2-4-25/",
+    liveLink: "",
   },
 
   {
@@ -294,6 +334,7 @@ export const slides = [
     title: "Mothreland Sample 4",
     category: "donations-and-non-profit",
     path: "https://thefixwell.com/samples/motherland_nepal_1_2-4-25/",
+    liveLink: "",
   },
 
   {
@@ -302,6 +343,7 @@ export const slides = [
     title: "Nick Contractor Sample 2",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/nickcontractor-3_2-4-25/",
+    liveLink: "",
   },
 
   {
@@ -310,6 +352,7 @@ export const slides = [
     title: "Nick Contractor Sample 3",
     category: "construction/roofing",
     path: "https://thefixwell.com/samples/nickcontractor_demo2_2-4-25/",
+    liveLink: "",
   },
 
   {
@@ -318,6 +361,7 @@ export const slides = [
     title: "Strength and Exercise sample 3",
     category: "fitness",
     path: "https://thefixwell.com/samples/strengthandexercise-24-03-2025-02/",
+    liveLink: "",
   },
   {
     id: 46,
@@ -325,6 +369,7 @@ export const slides = [
     title: "Joseph Sunder 1",
     category: "events",
     path: "https://thefixwell.com/samples/jospehsunder_1-4-2025/",
+    liveLink: "",
   },
   {
     id: 47,
@@ -332,6 +377,7 @@ export const slides = [
     title: "Joseph Sunder 2",
     category: "events",
     path: "https://thefixwell.com/samples/joseph-sample3_1-4-2025/",
+    liveLink: "",
   },
   {
     id: 48,
@@ -339,6 +385,7 @@ export const slides = [
     title: "Lia Fashions",
     category: "events",
     path: "https://thefixwell.com/samples/lia-fashions_1-4-2025/lia-fashions_4/",
+    liveLink: "",
   },
   {
     id: 49,
@@ -346,6 +393,7 @@ export const slides = [
     title: "Max Depot",
     category: "events",
     path: "https://thefixwell.com/samples/_max-depot-nj_1-4-2025/",
+    liveLink: "",
   },
   {
     id: 50,
@@ -353,6 +401,7 @@ export const slides = [
     title: "Ad God",
     category: "events",
     path: "https://thefixwell.com/samples/AdGod-sample_1-4-2025/",
+    liveLink: "",
   },
   {
     id: 51,
@@ -360,5 +409,6 @@ export const slides = [
     title: "Ad God",
     category: "events",
     path: "https://thefixwell.com/samples/speacial-events-channel_1-4-2025/",
+    liveLink: "",
   },
 ];
